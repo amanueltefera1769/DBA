@@ -1,0 +1,25 @@
+c:\users\sudi\documents\visual studio 2015\Projects\PhoneDiary\PhoneDiary\bin\Debug\PhoneDiary.exe.config
+c:\users\sudi\documents\visual studio 2015\Projects\PhoneDiary\PhoneDiary\bin\Debug\PhoneDiary.exe
+c:\users\sudi\documents\visual studio 2015\Projects\PhoneDiary\PhoneDiary\bin\Debug\PhoneDiary.pdb
+c:\users\sudi\documents\visual studio 2015\Projects\PhoneDiary\PhoneDiary\obj\Debug\PhoneDiary.MainForm.resources
+c:\users\sudi\documents\visual studio 2015\Projects\PhoneDiary\PhoneDiary\obj\Debug\PhoneDiary.Properties.Resources.resources
+c:\users\sudi\documents\visual studio 2015\Projects\PhoneDiary\PhoneDiary\obj\Debug\PhoneDiary.csproj.GenerateResource.Cache
+c:\users\sudi\documents\visual studio 2015\Projects\PhoneDiary\PhoneDiary\obj\Debug\PhoneDiary.exe
+c:\users\sudi\documents\visual studio 2015\Projects\PhoneDiary\PhoneDiary\obj\Debug\PhoneDiary.pdb
+c:\users\sudi\documents\visual studio 2015\Projects\PhoneDiary\PhoneDiary\bin\Debug\MaterialSkin.dll
+c:\users\sudi\documents\visual studio 2015\Projects\PhoneDiary\PhoneDiary\bin\Debug\Database.mdf
+c:\users\sudi\documents\visual studio 2015\Projects\PhoneDiary\PhoneDiary\bin\Debug\Database_log.ldf
+C:\Users\SUDI\Documents\Visual Studio 2015\Projects\PhoneDiary\PhoneDiary\obj\Debug\PhoneDiary.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\phonediary\PhoneDiary\PhoneDiary\bin\Debug\Database.mdf
+C:\Users\HP\Documents\phonediary\PhoneDiary\PhoneDiary\bin\Debug\Database_log.ldf
+C:\Users\HP\Documents\phonediary\PhoneDiary\PhoneDiary\bin\Debug\PhoneDiary.exe.config
+C:\Users\HP\Documents\phonediary\PhoneDiary\PhoneDiary\bin\Debug\PhoneDiary.exe
+C:\Users\HP\Documents\phonediary\PhoneDiary\PhoneDiary\bin\Debug\PhoneDiary.pdb
+C:\Users\HP\Documents\phonediary\PhoneDiary\PhoneDiary\bin\Debug\MaterialSkin.dll
+C:\Users\HP\Documents\phonediary\PhoneDiary\PhoneDiary\obj\Debug\PhoneDiary.csprojAssemblyReference.cache
+C:\Users\HP\Documents\phonediary\PhoneDiary\PhoneDiary\obj\Debug\PhoneDiary.MainForm.resources
+C:\Users\HP\Documents\phonediary\PhoneDiary\PhoneDiary\obj\Debug\PhoneDiary.Properties.Resources.resources
+C:\Users\HP\Documents\phonediary\PhoneDiary\PhoneDiary\obj\Debug\PhoneDiary.csproj.GenerateResource.cache
+C:\Users\HP\Documents\phonediary\PhoneDiary\PhoneDiary\obj\Debug\PhoneDiary.csproj.CopyComplete
+C:\Users\HP\Documents\phonediary\PhoneDiary\PhoneDiary\obj\Debug\PhoneDiary.exe
+C:\Users\HP\Documents\phonediary\PhoneDiary\PhoneDiary\obj\Debug\PhoneDiary.pdb
